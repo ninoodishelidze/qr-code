@@ -1,5 +1,10 @@
 body{
-    background-color: #D5E1EF;;
+    background-color: #D5E1EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 div{
     width: 320px;
@@ -7,6 +12,7 @@ div{
     border-radius: 20px;
     overflow: hidden;
     padding: 16px;
+    
 }
 img{
     max-width: 100%;
@@ -15,7 +21,23 @@ img{
 }
 h1{
      font-family: 'Outfit', sans-serif;
+     font-style: normal;
+     font-weight: 700;
+     font-size: 22px;
+     line-height: 28px; 
+     text-align: center;
+     color:#1F314F;
+     top:24px;
 }
 p{
     font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.1875px;
+    color:#7D889E;
+    top:16px;
+   
 }

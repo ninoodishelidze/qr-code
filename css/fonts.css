@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Alumni Sans Collegiate One';
+    src: url('..AlumniSansCollegiateOne-Regular.eot');
+    src: url('..AlumniSansCollegiateOne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('..AlumniSansCollegiateOne-Regular.woff') format('woff'),
+        url('..AlumniSansCollegiateOne-Regular.svg#AlumniSansCollegiateOne-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
